@@ -45,6 +45,9 @@ gem "bootsnap", require: false
 # password encryption
 gem 'bcrypt', '~> 3.1.7'
 
+# react
+gem 'react-rails'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
