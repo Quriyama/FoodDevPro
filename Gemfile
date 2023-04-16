@@ -48,6 +48,9 @@ gem 'bcrypt', '~> 3.1.7'
 # react
 gem 'react-rails'
 
+# webpacker
+gem 'webpacker', '~> 4.0', '>= 4.0.7'
+
 # Use Sass to process CSS
 # gem "sassc-rails"
 
